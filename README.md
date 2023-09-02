@@ -1,2 +1,2 @@
 # Optical_Character_Recognition
-A Deep Learning model to detect words from images
+This is a Deep Learning model to detect words from images. It is tested in the lnguages Tamil, English and Hindi.
